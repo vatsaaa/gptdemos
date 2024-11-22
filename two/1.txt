@@ -1,0 +1,166 @@
+I am interviewing for 
+<Job Description>
+    <Position>
+        Technology Director - Middle Markets Banking and Customer Due-Diligence
+    </Position>
+    <Prospective Employer>
+        Wells Fargo
+    </Prospective Employer>
+    <PositionOverview>
+    This position is responsible for technology strategy and execution in support of Middle Market Banking (MMB) Business and Customer Due Diligence (CDD) for Commercial, Corporate and Investment Banking Businesses. 
+    MMB serves companies with annual sales ranging from $5MM to $2BB. 
+    Wells Fargo is numero-uno in the US in several MMB segments. 
+    MMB includes core banking, Small Business Administration, Specialized Industries including but not limited to Technology, Food, Agribusiness, Government, Investor Real Estate and many more segments. 
+    CDD Technology team supports KYC and AML for new and existing Commercial, Corporate and Investment Banking customer. 
+    I will be the primary point of contact from Wells Fargo India and Philippine to the MMB and CDD senior technology leadership in US. 
+    I will be accountable for the technology necessary to support the MMB businesses from Origination to Portfolio Management and CDD. 
+    In addition the leader coming into this role will also own the technology strategy and execution of Underwriting and Portfolio management transformation aspects of the overall multi-year lending and CDD transformation strategy. 
+    In this position I will  manage all Origination, Underwriting, Portfolio Management and other supporting applications that support Middle Market Banking (MMB) for Wells Fargo. 
+    I will own the Technology Strategy including the design, development, testing, deployment and operations for all applications that enable Middle Market Banking and Customer Due Diligence.
+    </PositionOverview>
+
+    <PositionResponsibilitiesAndExpectedOutcomes>
+    • I will have primary accountability for the relationship with the Head of Middle Markets Banking and CDD Technology and the Senior leadership team of the Middle Markets Banking and  Customer Due Diligence Technology teams.
+    • I am required to have a strong understanding Commercial Banking business and Customer Due
+    Diligence and experience in large transformation and migration efforts related to Commercial
+    Lending and Banking businesses.
+    • I will have the responsibility for all of the mission critical applications requiring very high availability and robust BCP and failover architecture and down time would have far-reaching impacts across the enterprise and carry significant reputation risk.
+    • I will define technology strategy/roadmap, provide strategic technology perspective to technology and business executive management and recommend innovations, aligned with short term and long-term business/customer requirements, enterprise priorities and industry trends.
+    • I will be the broker and author for technology solutions that efficiently and effectively meet business needs leveraging enterprise technology services with a bias towards consistency, standards and common solutions. Provide re-usable, scalable and secure solutions that can be leveraged across the organisation.
+    • I will engage, partner and enhance relationships with existing vendors.
+    • I will build and maintain strong relationships with other functional areas in the CCIBT Organization Enterprise CIO group and across WFT (e.g. Technology Infrastructure, Chief Operating Office, and Technology Risk Management) as well as critical enterprise partners (e.g. Information Security, Data Management and Insights, Enterprise Global Services).
+    • I will partner closely with technology and business leaders to ensure that technology initiatives are aligned with business, enterprise and WFT priorities.
+    • I will demonstrate partner value by understanding the business, advocating technology solutions to advance business initiatives, incorporating internal / external customer views, and managing key financial indicators to the benefit of Well Fargo’s shareholders.
+    • Provide senior technology perspective on industry trends, competitive landscape and market/regulatory changes leveraging industry contacts, vendors, and strategic technology partner relationships. • Manage and allocate appropriate people and financial resources to ensure that projects are completed within committed time and budget and align with strategic objectives.
+    • Assess current staff capabilities, identify talent gaps, and execute talent management actions aligned with human capital strategy.
+    </PositionResponsibilitiesAndExpectedOutcomes>
+
+    <QualificatiosForThePositionHolder>
+    • 5 years of experience in supporting Commercial/Corporate Lending and Banking technology organisations at a large financial institution
+    • Thorough understanding of Commercial Lending Life cycle.
+    • Experience with leading large scale and transformational technology efforts
+    • Significant experience leading complex technology initiatives in a large and dynamic segment of financial services
+    • Demonstrated vendor negotiation and partnership skills along with experience working with technology offshore vendor relationships
+    • 14+ years of experience leading highly technical teams and deliverables across diverse technology environments
+    • 9+ years of executive leadership experience managing a complex technology organisation of large scale, including senior managers, managers, individual contributors and vendor resources across multiple global locations
+    • Demonstrated prior experiences in effective engagement with senior executives and external regulators
+    • Ability to effectively drive and lead change in an organization with Wells Fargo’s size, scale and complexity
+    • Demonstrated experience in building, leading, developing and retaining a high performing team of leaders, strong technical experts and high performing professionals in a cultural environment that achieves results through team member engagement and satisfaction
+    • Demonstrated ability to manage a large portfolio of technology efforts across several major lines of business and effectively partner/influence at the senior executive level
+    • Strong knowledge and understanding of the financial, operational, technical and regulatory drivers impacting a complex and dynamic global technology environment
+    • Ability to develop technology strategy, operating model &amp; roadmaps with clear objectives and aligned with business, enterprise and technology strategies
+    • Broad experience across multiple areas of technology including one or more of architecture, infrastructure and application development with strong understanding of leading edge as well as legacy and distributed technologies to effectively manage the complex and diverse applications portfolio
+    • Proven experience as a highly effective leader with credibility from demonstrating strong business and technology acumen
+    • Highly effective decision-making/critical thinking/problem solving skills with a collaborative and results oriented leadership style
+    • Demonstrated ability to consult with key business partners and translate complex, technical concepts so that they are clearly understood along with the ability to effectively partner and influence at the senior executive level
+    • Demonstrated ability to communicate and partner effectively with regulators
+    • Demonstrated experience motivating and influencing groups or individuals across organisational boundaries to gain trust and confidence to make timely decisions
+    • Proven experience in establishing a vision, developing the strategy to support the vision, gaining consensus across key functional leadership through effective communication, and driving action towards the vision through the effective management of goals and objectives
+    • Excellent communication (oral and written) with ability to communicate at multiple levels ranging from technologists to senior managers and executive leadership
+    • Strong commitment to diversity and inclusion
+    </QualificatiosForThePositionHolder>
+</Job Description>
+
+My work experience is shared
+<My Work Profile>
+<Technical Skills>
+    <Services And Presentation Layer>
+        C++, Java/J2EE, Spring, Shell & Advanced Python, Node.js, REACT & Next.js, Web3 (Truffle, Hardhat, Ethereum)
+    </Services And Presentation Layer>
+    <Databases And Big Data Stack>
+        Sybase ASE, SQL Performance Tuning, MongoDB, DynamoDB, Hadoop Stacks, Elasticsearch
+    </Databases And Big Data Stack>
+    <DevOps And Application Infrastructure>
+        Github and Gitlab, CI/CD, Jenkins, SonarQube, Ansible, Docker & Kubernetes, Camel, Mule & Data Power XI52 ESB, Kafka, DataSynapse GridServices, Blockchain/Ethereum Enthusiast, AWS, Terraform
+    <DevOps And Application Infrastructure>
+    <ManagementSkills>
+        Program & project management, Lean/Agile/SCRUM/KANBAN, Vendor relations, Strategic planning and change management
+    </Management  Skills>
+</Technical Skills>
+<Experiences>
+    <Experience>
+        <ExperienceType>Current</ExperienceType>
+        <Duration>
+            <From>September 2017</From>
+            <To>Today</To>
+        </Duration>
+        <Employer>Nomura Services India Private Limited</Employer>
+        <Designation>Executive Director, Chief Technology Architect</Designation>
+        <ResponsibilitiesAndAchievements>
+            ● Provides architectural and engineering leadership to a globally distributed team of ~1000 engineers and lead architects. Accountable for technology and data governance standards, setting strategic direction on 'Invest' tools & technology services, delivering architecture governance reviews and creating projects to pioneer emerging technologies such as RPA, AWS & Private Cloud, Blockchain, Artificial Intelligence, Data Science, and DevOps at Scale.
+            ● Established a delegated model of governing technology architecture, functional architecture and application design. Ensures appropriate design governance and well documented architecture decision making, and works closely with information security, privacy, and compliance and other corporate divisions to effectively maintain architecture controls.
+            ● Owns digitalization strategy for leveraging emerging technologies and is responsible for identifying opportunities to leverage emerging technologies through internal & external relationships, and to develop, operationalise & adopt new age AI/ML, cognitive and conversational platforms into customer journeys & business processes to improve operational efficiency and customer experience. Established and evangelised principles for assessing emerging technologies, fin-tech products, vendor management and successful adoption of technically fit products that suit the business need.
+            ● Established ‘Innovation Centre’ and delivered end to end Machine Learning & NLP products viz. Talent Acquisition Recommender, Automated Work-queue management for emails, Conversational UI Frameworks for building Chatbots at scale, automated Market Data Commercials (Invoicing, Demand & Vendor Management), Semantic Sentimental Analysis to determine news of interest from entity credit profile, automated PnL & risk sensitivities explain & adjustments postings, standing settlement instructions setup from unstructured data, NLP for verification and confidence prediction for legal NDA documents, crypto-currencies & digital assets custodial services, digital assets recommendation engine, build large language model (LLMs) products e.g. on ChatGPT, Google Bard, ALPACA.
+            ● Leading the platform engineering team for Digital Twin Strategy to build Digital Workbench that enables citizen development model, established framework to assess RPA feasibility & RoI, delivered 110 RPA bots in 12 weeks, refined CoE set-up and proposed alternative tools & processes for federating RPA & IPA development.
+            ● Building data science products with credible and elevated profile in the field, including keynote speaking experience, and other intangible contributions like mentoring start-ups. Demonstrated capabilities in setting & executing data virtualisation & analytics and AI agenda, managing complex variables including Information & Data Governance & Management, Information Security, Privacy & Compliance & others.
+        </ResponsibilitiesAndAchievements>
+    </Experience>
+    <Experience>
+        <ExperienceType>Previous</ExperienceType>
+        <Duration>
+            <From>Jan 2016</From>
+            <To>Jul 2017</To>
+        </Duration>
+        <Employer>ENCORE Capital Group</Employer>
+        <Designation>Director, Global Information Technology</Designation>
+        <ResponsibilitiesAndAchievements>
+            ● Accountable for strategic planning, product roadmaps, development and production support of high performance software products across all LoBs viz. CRM – Internal Operations, Legal Operations, Media Capture & Storage, Common Payment Portal, Payment Interface & Tax Lien. Led a comprehensive transformation of IT strategy, assets, and investments with organisational objectives e.g. prioritising shortest weighted projects complemented with Agile delivery methods, established DevOps Culture and pushing forward SOA strategy & Micro-services Architecture.
+            ● Adopted Scrum & Kanban for optimised delivery globally to ensure strong release management & feature driven planning and introduced tools driven metrics collection & SLA based product delivery. Resulting in value based feature prioritisation with business, increased predictability of release and reduced delivery cycle from 9-10 weeks to 4 weeks.
+            ● Owned ‘Technology Consolidation’ & ‘Core Services Automation’ strategies, resulting in enhanced user experience and $700k savings. Proposed cost based consolidation of heterogeneous technical delivery stack and led integration of the stack on to unified delivery pipeline (VSTS Online) which saved $200,000 and enabled Continuous Integration and Continuous Delivery & traceability from requirements, code & quality. Reduced technical debt by identifying redundancy and consolidating, integrating & retiring several tools & technologies e.g. replaced HP testing & quality tools with Microsoft Technology & Delivery Platform, Packer & Vagrant for CI/CD i.e. One-Click Deployments.
+            ● Defined product aligned IT organisation structure to meet business needs, resulting in high quality deliverable, vibrant & productive work environment fostering teamwork, free thinking & retaining star performers. Built & executed roadmaps to make testers and developers as full-stack engineers. Hired & set up 3 new product teams in six weeks.
+            ● Established DevOps (ALM, AIS and Operate) culture to transform IT support and organisational interaction practices, fostering a strong & collaborative work environment while developing robust processes & reporting for improved issue initiation and visibility. Established technology menu, delivery & quality standards and technical debt register to ensure technology standards and best practices are maintained across the organisation.
+            ● Proposed and sponsored execution of ‘Proactive Monitoring of Applications’, to implement and integrate centralised logging & analysis service viz. Graylog, Kafka & Fluentd, this brought 20% proactive reporting and prevention of issues.
+            ● Owned ‘Build for Cloud’ & ‘Cloud First’ strategies, architected RESTful & Micro-services based products and ensured their timely high-quality delivery of products on AWS Cloud e.g. Bluefin (Payment Interface & Gateway), Payment Portal, Media management and storage solution and Cogent – IL Express, thus saving $450,000 p.a
+            ● Responsible for ERP consolidation program and BI & MIS team deliveries. Hired teams for 3 new digital solutions in 4 weeks and built strong relations with internal and external IT partners & vendors and managed them as per SLAs and OLAs.
+        </ResponsibilitiesAndAchievements>
+    </Experience>
+    <Experience>
+        <ExperienceType>Previous</ExperienceType>
+        <Duration>
+            <From>September 2007</From>
+            <To>January 2016</To>
+        </Duration>
+        <Employer>Royal Bank of Scotland</Employer>
+        <Designation>Vice President, Fixed Income Technology</Designation>
+        <ResponsibilitiesAndAchievements>
+            ● Fast-tracked through roles demanding technical & management capabilities and promoted from enterprise engineering role to management roles to oversee global delivery of derivatives trade lifecycle platform and program management for several Dodd-Frank regulatory and market initiatives, including hands on delivery as required.
+            ● As Enterprise Engineer & Architect, owned comprehensive SoA strategy & re-architected monolithic derivatives trading & pricing platform into several standalone & independently releasable business services for Clearing, Transaction Reporting, Brokerage, Credit Check, Market Data Independence and others. Created a reference architecture & exemplar that was leveraged by several future enhancements resulting in quick time to market.
+            ● Managed technology implementation for regulatory and market leading initiatives viz. Clearing & Affirmations, Collateralised Pricing and SEFs. Engaged leaders across business disciplines to ascertain & prioritise features and develop system, networking, communications, and support solutions. Ensured adherence to quality standards, alignment of program goals with supply by setting up value based stakeholder to strategic supplier relationships.
+            ● Managed migrating derivatives trading platform from Sybase 12.5 on SunOS 5.8 to Sybase (ASE) 15.5 on Linux. Responsible for Project planning, tracking and reporting, resource projection & management (e.g. h/w, environments, 80 engineers, 7 vendors), present weekly achievements and RAID to senior management. Made several zero defect deliveries and completed the program within 10 months despite its massive scale & impact.
+            ● Owned long term roadmap and strategy for Interest Rate Derivatives Trading, Pricing & Risk Analytics platform. Responsible for features prioritisation, releases, task estimation, UAT, production change & deployment. Provided technical leadership on large scale complex projects for the platform viz. Fetching live market data from Reuters Market Data Services, Adding Market Risk measures viz. PayOff Matrix, P & L and Risk Attribution to market data, ISDA Early Terminations matrix, Importing & managing FX Volatilities, basis risk.
+            ● Led BAU & technical support team of 15 engineers, issue prioritisation with business & technology leadership, mentored team to understand issues & help with best possible solution, 24×7 incident & situation management, capacity planning etc. Leveraged peer programming and review practices, quality frameworks SonarQube to improve code quality.
+        </ResponsibilitiesAndAchievements>
+    </Experience>
+</Experiences>
+<Profile Summary>
+    <Strategic Planning, Execution and Transformational Leadership>
+        ● Hands-on technology leader with expertise in large-scale technology transformation for banking and financial services
+        institutions, extensive working experience in matrixed and multi-tasking environments with leadership of ~350 staff
+        across India, Europe and US with a total spend of USD 18 million p.a
+        ● Demonstrated digital transformation leadership by setting-up innovation centres, enterprise-wide platform engineering
+        for digitalization tools and maintaining value based stakeholder & strategic supplier relationships. Recognition and
+        sponsorship from business innovation heads for proposing and building ‘digital assets (NFT) recommendation engine’.
+        ● Expertise in leading DevOps & Cloud Engineering, architecting data virtualisation & analytics platform and
+        optimising software delivery & operations by adopting Agile concepts & metrics and flattening IT organisation structure.
+        ● Positioned IT as strategic business partner by revitalising IT operations through robust ITIL based support services &
+        operations metrics e.g. application tiers & SLAs, Shift Left Score, MTT Resolve which better aligned IT with business.
+    </Strategic Planning, Execution and Transformational Leadership>
+    <Technology & Architecture Leadership>
+        ● 11+ years in leading several stages of SOA & microservices maturity, architected & delivered several high impact strategic solutions in derivatives trading deployed on a global scale e.g. P & L Attribution, Pricing & Risk Analytics, Clearing, Affirmations & Confirmations of OTC Derivatives, Transaction Reporting, Brokerage Service.
+        ● AWS certified solutions architect - Professional, with extensive experience of building and migrating globally distributed business services to public cloud, utilising Terraform, Cloud Formation, Ansible, EKS, Lambda, EC2 etc.
+        ● 5 yrs experience in Custodial Services & Distressed Debt Capital Management (Corporate Actions, Events Announcement & Creation, Payments Processing, Entitlements Calculation & Payments, Reconciliation & Reporting).
+        ● 7 years experience in strategically governing technology architecture by comprehensively understanding current IT portfolio, documenting desired technology architecture, establishing technology reference menu, publishing best practices, and evangelising technology architecture principles. Proficient in aligning system architectures with organisational objectives by comprehending business strategy and effectively translating it into technology solutions.
+    </Technology & Architecture Leadership>
+    <People Leadership & Engagement>
+        ● Substantial experience in building a strong culture of ownership, collaboration, fast execution & innovation and in managing & inspiring global teams of ~350 competent senior architects, developers, testers and delivery managers.
+        ● Fosters trust & mutual respect by ensuring clarity of purpose, coaching, and with end to end hands on leadership style. Built & executed roadmaps for delivery team maturity from inheritance till making highly fungible full-stack engineers.
+        ● Outstanding communication skills and experience of operating as a trusted advisor in a C-level environment helping to develop roadmaps for transforming organisational behaviours and enabling adoption of innovative working practices.
+        ● CEO recognition for leading organisational initiatives on people engagement and wellbeing, CSR and contributed to ESG
+    </People Leadership & Engagement>
+</Profile Summary>
+<EDUCATION, TRAININGS and AWARDS>
+    ● B. Tech. (83%) in Mechanical Engineering from Faculty of Engg. & Tech, Jamia Millia Islamia, New Delhi in 2000
+    ● Post Graduate Certificate in Intellectual Property Rights from Indian Law Institute, New Delhi in 2007
+    ● AWS Certified Solutions Architect, Public and Private Cloud Architectures
+</EDUCATION, TRAININGS and AWARDS>
+</My Work Profile>
